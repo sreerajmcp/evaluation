@@ -1,0 +1,25 @@
+.top{
+    display: flex;
+    background-color: darkblue;
+    gap: 50px;
+    color: white;
+    text-align: center;
+   
+
+}
+
+.card :hover{
+     background-color: white;
+    opacity: .4;
+    
+
+}
+
+.card-title :hover{
+
+    opacity: 1;
+
+}
+.hello:hover{
+    background-color: rgb(157, 146, 146);
+}
